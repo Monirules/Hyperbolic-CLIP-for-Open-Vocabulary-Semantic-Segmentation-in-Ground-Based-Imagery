@@ -4,7 +4,7 @@
  * Data reading, formatting have been taken care to execute the notebook smoothly on Colab <br>
  * If anyone have a dedicated compute resource, can run it for more number of epochs, modify the architecture.
 
-Details of the dataset are at : https://arxiv.org/ftp/arxiv/papers/1810/1810.05801.pdf
+For full Dataset, Email me - mahmudislam2025@gmail.com 
 
 ## Sample Input with the respective mask
 ![alt text](https://github.com/Arunprakash-A/U-NET-based-Cloud-Segmentation/blob/main/images/img_mask.png "Sample Image")
